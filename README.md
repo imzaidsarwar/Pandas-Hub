@@ -34,6 +34,7 @@ Commonly, Pandas is imported as pd for brevity in code.
 **Data Loading**:
 * Pandas can be used to load data from various sources, such as CSV and Excel files.
 * The read_csv function is used to load data from a CSV file into a Pandas DataFrame.
+
 To read a CSV (Comma-Separated Values) file in Python using the Pandas library, you can use the pd.read_csv() function. Here's the syntax to read a CSV file:
 
 ```
